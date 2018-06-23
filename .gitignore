@@ -14,3 +14,9 @@ _book
 *.epub
 *.mobi
 *.pdf
+
+# Código gitignore para evitar procesar los directorios de las dependencias
+
+180615_TP5/node_modules
+
+arrancarServidor.docx
